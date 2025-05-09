@@ -1,3 +1,3 @@
 # WebProxy
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Odysseusv1/WebProxy)
+Og in stackblitz used help from bolt(https://stackblitz.com/~/github.com/Odysseusv1/WebProxy)
